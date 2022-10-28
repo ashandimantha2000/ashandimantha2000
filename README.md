@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
-<!-- Social Media -->
+<!-- GitHub -->
 
 <div id="badges" align="center">
   </a>
@@ -10,8 +10,7 @@
   <img src="https://img.shields.io/github/followers/ashandimantha2000?label=Follow&style=social" />
 </a>
 <br>
-  <a href="https://www.linkedin.com/in/ashandimanthalk/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  
   
 </div>
 
@@ -27,6 +26,14 @@
 - 💞️ I’m looking to collaborate on IT and Marketing Projects
 - 📫 How to reach me https://ashandimantha.me/
 
+
+<div id="badges" align="center">
+ 
+<br>
+  <a href="https://www.linkedin.com/in/ashandimanthalk/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  
+</div>
 <!---
 ashandimantha2000/ashandimantha2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
