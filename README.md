@@ -35,9 +35,11 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<div>
+<div display="flex">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashandimantha2000&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashandimantha2000&theme=dark&background=000000)](https://git.io/streak-stats)
-
 
 </div>
 <h3>Achievements</h3>
@@ -48,9 +50,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.credly.com/users/ashandimanthalk/badges"><img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150px"/></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashandimantha2000&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashandimantha2000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
