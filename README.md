@@ -5,12 +5,14 @@
 <!-- Social Media -->
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ashandimanthalk/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/ashandimantha2000">
   <img src="https://img.shields.io/github/followers/ashandimantha2000?label=Follow&style=social" />
 </a>
+<br>
+  <a href="https://www.linkedin.com/in/ashandimanthalk/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  
 </div>
 
 <h1>
