@@ -19,21 +19,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Ashan Dimantha.
 </h1>
-
-- 👋 Hi, I’m @ashandimantha2000
-- 👀 I’m interested in Computing, Digital Marketing & Creative Multimedia
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on IT and Marketing Projects
-- 📫 How to reach me https://ashandimantha.me/
-
-
-<div id="badges" align="center">
+<div id="badges" align="left">
  
 <br>
   <a href="https://www.linkedin.com/in/ashandimanthalk/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   
 </div>
+- 👋 Hi, I’m @ashandimantha2000
+- 👀 I’m interested in Computing, Digital Marketing & Creative Multimedia
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m looking to collaborate on IT and Marketing Projects
+- 📫 How to reach me https://ashandimantha.me/
+
 <!---
 ashandimantha2000/ashandimantha2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
