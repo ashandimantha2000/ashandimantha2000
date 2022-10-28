@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 [![@ashandimanthalk's Holopin board](https://holopin.me/ashandimanthalk)](https://holopin.io/@ashandimanthalk)
 
 
-<a href="https://www.credly.com/users/ashandimanthalk/badges"><img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150px"/></a>
+<a href="https://www.credly.com/users/ashandimanthalk/badges"><img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" title="Introduction to Cyber Security - Cisco Verified" width="150px"/></a>
 
 
 
