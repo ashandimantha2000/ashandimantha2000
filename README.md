@@ -9,11 +9,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Ashan Dimantha.
 </h1>
-<div align="right">
-   <a href="https://www.linkedin.com/in/ashandimanthalk/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  
-</div>
+
 
 ![MasterHead](https://jayamwebsolutions.com/img/website.gif )
 
@@ -36,6 +32,12 @@
 - 💞️ I’m looking to collaborate on IT and Marketing Projects
 - 📫 How to reach me https://ashandimantha.me/
 
+
+<div align="right">
+   <a href="https://www.linkedin.com/in/ashandimanthalk/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  
+</div>
 <!---
 ashandimantha2000/ashandimantha2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
