@@ -33,7 +33,7 @@
 - 📫 How to reach me https://ashandimantha.me/
 
 
-<div align="right">
+<div align="right"> Connect WIth Me :
    <a href="https://www.linkedin.com/in/ashandimanthalk/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   
