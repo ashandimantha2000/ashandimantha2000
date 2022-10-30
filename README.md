@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div> -->
 
-![MasterHead](https://jayamwebsolutions.com/img/website.gif )
-
 <!-- GitHub -->
 
 <h1>
@@ -11,6 +9,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Ashan Dimantha.
 </h1>
+
+![MasterHead](https://jayamwebsolutions.com/img/website.gif )
 
 <div id="badges" align="center">
   </a>
