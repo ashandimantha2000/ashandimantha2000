@@ -30,7 +30,7 @@
 - 👀 I’m interested in Computing, Digital Marketing & Creative Multimedia
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on IT and Marketing Projects
-- 📫 How to reach me https://ashandimantha.me/
+- 📫 Reach me https://ashandimantha.me/
 
 
 <div align="right"><h5>Connect WIth Me On</h5>
