@@ -96,7 +96,6 @@ You can click the Preview link to take a look at your changes.
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashandimantha2000/&theme=prussian&hide_border=true)<br/>
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -120,6 +119,7 @@ You can click the Preview link to take a look at your changes.
   
   
 <!--  # 📊 GitHub Stats: -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashandimantha2000/&theme=prussian&hide_border=true)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=ashandimantha2000/&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashandimantha2000/&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
