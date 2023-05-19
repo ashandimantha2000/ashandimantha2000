@@ -26,10 +26,10 @@
 
 
   
-- 👋 Hi, I’m @ashandimantha2000
-- 👀 I’m interested in Computing, Digital Marketing & Creative Multimedia
+- 👋 Hi, I’m Ashan Dimantha Herath
+- 👀 I’m interested in Development, Designing and Cyber Security
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on IT and Marketing Projects
+- 💞️ I’m looking to collaborate on IT related Projects
 - 📫 Reach me https://ashandimantha2000.github.io/
 
 
