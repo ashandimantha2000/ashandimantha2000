@@ -13,15 +13,7 @@
 
 ![MasterHead](https://jayamwebsolutions.com/img/website.gif )
 
-<div id="badges" align="center">
-<!--   </a>
-  <a href="https://github.com/ashandimantha2000">
-  <img src="https://img.shields.io/github/followers/ashandimantha2000?label=Follow&style=social" />
-</a> -->
 
-  
-  
-</div>
 
 
 
