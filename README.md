@@ -15,7 +15,6 @@
 
 - 👀 I’m interested in Full-Stack Development, UI/UX Engineering and Cyber Security
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on IT related Projects
 - 📫 Reach me https://ashandimantha.vercel.app/
 
 
