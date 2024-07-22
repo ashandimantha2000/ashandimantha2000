@@ -21,7 +21,7 @@
     
 
 
-  [![Webiste](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ashandimantha.live/)  
+ [![Website](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ashandimantha.live/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashandimanthalk/)
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashandimanthalk)
   [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ashandimanthalk)
@@ -35,7 +35,8 @@
   </br>
    </br>
 </div>-->
-
+ </br>
+  </br>
  
 <div>
     
