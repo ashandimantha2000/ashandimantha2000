@@ -25,47 +25,16 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://behance.net/ashandimanthalk)
   
 </div>
-<!---
-ashandimantha2000/ashandimantha2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-<!-- Stack -->
-<!--   <h3>Stacks</h3>
-  <hr>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> -->
-    
  
   ## 💻 Technologies and Frameworks
 [![Technologies](https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,mongodb,mysql,redux,sass,tailwind,materialui,bootstrap,jest,githubactions,flutter,dotnet,js,ts,php,java,py,c,cpp,aws,wordpress,arduino,linux)](https://skillicons.dev)
    
- # 💻 Software and Tools:
+ ## 💻 Software and Tools:
 [![Softwares](https://skillicons.dev/icons?i=git,npm,npm,postman,vscode,figma)](https://skillicons.dev)
 
 
  
-
-  
-  
-<!--  # 📊 GitHub Stats: -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashandimantha2000/&theme=prussian&hide_border=true)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=ashandimantha2000/&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
-
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashandimantha2000/&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
-  
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; -->
- 
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; -->
 
   
 </div>
@@ -79,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashandimantha2000&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashandimantha2000&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+ <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashandimantha2000&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
   
 </div>
@@ -89,7 +58,9 @@ You can click the Preview link to take a look at your changes.
 [![@ashandimanthalk's Holopin board](https://holopin.me/ashandimanthalk)](https://holopin.io/@ashandimanthalk)
 
 
-<a href="https://www.credly.com/users/ashandimanthalk/badges"><img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" title="Introduction to Cyber Security - Cisco Verified" width="150px"/></a>
+<a href="https://www.credly.com/users/ashandimanthalk/badges"><img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" title="Introduction to Cyber Security - Cisco Verified" width="100px"/></a>
+
+<a href="https://www.credly.com/users/ashandimanthalk/badges"><img src="[https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png](https://images.credly.com/size/220x220/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)" title="ISC2 Candidate" width="100px"/></a>
 
 
 
