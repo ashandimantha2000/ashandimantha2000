@@ -23,50 +23,38 @@
   ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/ashandimantha.profile) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ashandimanthalk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashandimanthalk/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ashandimanthalk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/ashandimantha) 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://behance.net/ashandimanthalk)
-  
+  </br>
 </div>
 
  
-  ## 💻 Technologies and Frameworks
+<div>
+    
+  ## Technologies and Frameworks
 [![Technologies](https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,mongodb,mysql,redux,sass,tailwind,materialui,bootstrap,jest,githubactions,flutter,dotnet,js,ts,php,java,py,c,cpp,aws,wordpress,arduino,linux)](https://skillicons.dev)
-   
- ## 💻 Software and Tools:
+    </br>
+ ## Software and Tools
 [![Softwares](https://skillicons.dev/icons?i=git,npm,npm,postman,vscode,figma)](https://skillicons.dev)
 
-
- 
-
+</div>
   
 </div>
+ </br>
 
-<br>
-
-<!-- Contribution and Most Used Languages -->
-<br>
-<div display="flex">
-  
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashandimantha2000&theme=dark&background=000000)](https://git.io/streak-stats) -->
-
-
- <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashandimantha2000&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
-  
-</div>
-<h3>Achievements</h3>
-  <hr>
+<div>
+   ## Achievements
 
 [![@ashandimanthalk's Holopin board](https://holopin.me/ashandimanthalk)](https://holopin.io/@ashandimanthalk)
 
-
 <div>
   <a href="https://www.credly.com/users/ashandimanthalk/badges">
-    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" title="Introduction to Cyber Security - Cisco Verified" width="100px" style="display:inline-block;"/>
+    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" title="Introduction to Cyber Security - Cisco Verified" width="100px" style="display:inline-block; margin-right: 10px;"/>
   </a>
   <a href="https://www.credly.com/users/ashandimanthalk/badges">
     <img src="https://images.credly.com/size/220x220/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" title="ISC2 Candidate" width="100px" style="display:inline-block;"/>
   </a>
 </div>
 
+</div>
 
 
 
