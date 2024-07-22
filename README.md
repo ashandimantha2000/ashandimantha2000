@@ -21,10 +21,13 @@
     
 
 <div style="display:inline-block;">
-  
-  [![Linkedin](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=whi)](https://www.linkedin.com/in/ashandimanthalk/)
-  [![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ashandimanthalk)
-  [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:ashandimanthalk@gmail.com)
+  [![Webiste](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ashandimantha.live/)  
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashandimanthalk/)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashandimanthalk)
+  [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ashandimanthalk)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=whi)](https://web.facebook.com/ashandimantha.profile/)
+  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ashandimanthalk)
+
 
 </div>
   
@@ -38,10 +41,10 @@
 <div>
     
   ## Technologies and Frameworks
-[![Technologies](https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,mongodb,mysql,redux,sass,tailwind,materialui,bootstrap,jest,githubactions,flutter,dotnet,js,ts,php,java,py,c,cpp,aws,wordpress,arduino,linux)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,mongodb,mysql,redux,sass,tailwind,materialui,bootstrap,jest,githubactions,flutter,dotnet,js,ts,php,java,py,c,cpp,aws,wordpress,arduino,linux)](https://www.ashandimantha.live/)
     </br>
  ## Software and Tools
-[![Softwares](https://skillicons.dev/icons?i=git,npm,npm,postman,vscode,figma)](https://skillicons.dev)
+[![Softwares](https://skillicons.dev/icons?i=git,npm,yarn,postman,figma)](https://www.ashandimantha.live/)
 
 </div>
   
@@ -57,7 +60,7 @@
 
 <div>
   <a href="https://www.credly.com/users/ashandimanthalk/badges">
-    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" title="Introduction to Cyber Security - Cisco Verified" width="100px" style="display:inline-block; margin-right: 10px;"/>
+    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" title="Introduction to Cyber Security - Cisco Verified" width="100px" style="display:inline-block; margin-right: 30px;"/>
   </a>
   <a href="https://www.credly.com/users/ashandimanthalk/badges">
     <img src="https://images.credly.com/size/220x220/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" title="ISC2 Candidate" width="100px" style="display:inline-block;"/>
