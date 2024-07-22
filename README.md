@@ -11,8 +11,8 @@
 </h1>
 
 - 👀 I’m interested in Full-Stack Development, UI/UX Engineering and Cyber Security
-- 🌱 BSc (Hons) Computer Science - First Class Honours
-- 📫 Reach me [https://www.ashandimantha.live/](https://www.ashandimantha.live/)
+-  BSc (Hons) Computer Science - First Class Honours
+- 🌐 Discover My Coding Aesthetics [https://www.ashandimantha.live/](https://www.ashandimantha.live/)
 
 
 <!-- <div align="right"><h5>Connect WIth Me On</h5>
@@ -44,6 +44,8 @@ You can click the Preview link to take a look at your changes.
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> -->
+
+[![Technologies](https://skillicons.dev/icons?i=react,nodejs,expressjs,mongodb,mysql,next,redux,jest,sass,tailwind,ts,spring,c,php,java,py,sklearn,selenium,aws,docker,kubernetes,githubactions,bash,flutter,dotnet,linux)](https://skillicons.dev)
    
  # 💻 Technologies:
 
