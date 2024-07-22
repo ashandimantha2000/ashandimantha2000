@@ -22,7 +22,7 @@
 
 <div style="display:inline-block;">
   
-  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ashandimanthalk/)
+  [![Linkedin](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=whi)](https://www.linkedin.com/in/ashandimanthalk/)
   [![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ashandimanthalk)
   [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:ashandimanthalk@gmail.com)
 
