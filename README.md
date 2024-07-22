@@ -60,7 +60,7 @@
 
 <a href="https://www.credly.com/users/ashandimanthalk/badges"><img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" title="Introduction to Cyber Security - Cisco Verified" width="100px"/></a>
 
-<a href="https://www.credly.com/users/ashandimanthalk/badges"><img src="[https://images.credly.com/size/220x220/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png]" title="ISC2 Candidate" width="100px"/></a>
+<a href="https://www.credly.com/users/ashandimanthalk/badges"><img src="https://images.credly.com/size/220x220/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" title="ISC2 Candidate" width="100px"/></a>
 
 
 
