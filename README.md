@@ -11,7 +11,7 @@
 </h1>
 
 - 👀 I’m interested in Full-Stack Development, UI/UX Engineering and Cyber Security
--  BSc (Hons) Computer Science - First Class Honours
+- 🎓 BSc (Hons) Computer Science - First Class Honours
 - 🌐 Discover My Coding Aesthetics [https://www.ashandimantha.live/](https://www.ashandimantha.live/)
 
 
@@ -20,11 +20,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> -->
     
 
-  ## React Me
+<div style="display:inline-block;">
   [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ashandimanthalk/)
   [![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ashandimanthalk)
-  [![gmail](https://skillicons.dev/icons?i=linkedin)](mailto:ashandimanthalk@gmail.com)
+  [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:ashandimanthalk@gmail.com)
 
+</div>
   
 <!--[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/ashandimantha.profile) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ashandimanthalk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashandimanthalk/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ashandimanthalk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/ashandimantha) 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://behance.net/ashandimanthalk)
