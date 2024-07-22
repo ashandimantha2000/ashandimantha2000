@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> -->
     
 
-<div style="display:inline-block;">
+
   [![Webiste](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ashandimantha.live/)  
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashandimanthalk/)
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashandimanthalk)
@@ -29,7 +29,6 @@
   [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ashandimanthalk)
 
 
-</div>
   
 <!--[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/ashandimantha.profile) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ashandimanthalk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashandimanthalk/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ashandimanthalk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/ashandimantha) 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://behance.net/ashandimanthalk)
@@ -50,24 +49,17 @@
   
 </div>
  </br>
-  </br>
 
-<div>
   
    ## Achievements
 
 [![@ashandimanthalk's Holopin board](https://holopin.me/ashandimanthalk)](https://holopin.io/@ashandimanthalk)
 
-<div>
   <a href="https://www.credly.com/users/ashandimanthalk/badges">
     <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" title="Introduction to Cyber Security - Cisco Verified" width="100px" style="display:inline-block; margin-right: 30px;"/>
   </a>
-  <a href="https://www.credly.com/users/ashandimanthalk/badges">
-    <img src="https://images.credly.com/size/220x220/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" title="ISC2 Candidate" width="100px" style="display:inline-block;"/>
-  </a>
-</div>
 
-</div>
+
 
 
 
