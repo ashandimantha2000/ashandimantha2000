@@ -41,7 +41,7 @@
 <div>
     
   ## Technologies and Frameworks
-[![Technologies](https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,mongodb,mysql,redux,sass,tailwind,materialui,bootstrap,jest,githubactions,flutter,dotnet,js,ts,php,java,py,c,cpp,aws,wordpress,arduino,linux)](https://www.ashandimantha.live/)
+[![Technologies](https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,laravel,mongodb,mysql,redux,sass,tailwind,materialui,bootstrap,jest,githubactions,flutter,dotnet,js,ts,php,java,py,c,cpp,aws,wordpress,arduino,linux)](https://www.ashandimantha.live/)
     </br>
  ## Software and Tools
 [![Softwares](https://skillicons.dev/icons?i=git,npm,yarn,postman,figma)](https://www.ashandimantha.live/)
