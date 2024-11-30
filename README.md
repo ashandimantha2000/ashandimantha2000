@@ -8,9 +8,9 @@ A being of 1s, 0s & infinite hues 🌈
   I'm Ashan Dimantha.
 </h1>-->
 
-- 👀 I’m interested in Full-Stack Development, UI/UX Engineering and Cyber Security
+- 👀 I’m interested in Software Engineering, UI/UX, Cyber Security and Cloud Engineering
 - 🎓 BSc (Hons) Computer Science - First Class Honours
-- 🌐 Discover My Coding Aesthetics [https://www.ashandimantha.live/](https://www.ashandimantha.live/)
+- 🌐 Discover My Portfolio -  [https://www.ashandimantha.live/](https://www.ashandimantha.live/)
 
 
 <!-- <div align="right"><h5>Connect WIth Me On</h5>
