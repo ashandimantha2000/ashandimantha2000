@@ -43,7 +43,7 @@ A being of 1s, 0s & infinite hues 🌈
 <div>
     
   ## Tools and Technologies
-[![Technologies](https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,nestjs,mongodb,mysql,redux,sass,tailwind,materialui,bootstrap,docker,aws,graphsql,redis,jest,flutter,dotnet,js,ts,java,py,c,cpp,arduino,linux)](https://www.ashandimantha.live/)
+[![Technologies](https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,nestjs,mongodb,mysql,redux,sass,tailwind,materialui,bootstrap,docker,aws,graphql,redis,jest,flutter,dotnet,js,ts,java,py,c,cpp,arduino,linux)](https://www.ashandimantha.live/)
     </br>
 <!-- ## Software and Tools
 [![Softwares](https://skillicons.dev/icons?i=git,npm,yarn,postman,figma)](https://www.ashandimantha.live/) -->
