@@ -4,11 +4,13 @@
 
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
 
-<h1 align="center">
+A being of 1s, 0s & infinite hues 🌈
+
+<!--<h1 align="center">
   Hello!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Ashan Dimantha.
-</h1>
+</h1>-->
 
 - 👀 I’m interested in Full-Stack Development, UI/UX Engineering and Cyber Security
 - 🎓 BSc (Hons) Computer Science - First Class Honours
