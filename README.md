@@ -42,11 +42,11 @@ A being of 1s, 0s & infinite hues 🌈
  
 <div>
     
-  ## Technologies and Frameworks
-[![Technologies](https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,laravel,mongodb,mysql,redux,sass,tailwind,materialui,bootstrap,jest,githubactions,flutter,dotnet,js,ts,php,java,py,c,cpp,aws,wordpress,arduino,linux)](https://www.ashandimantha.live/)
+  ## Tools and Technologies
+[![Technologies](https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,nestjs,mongodb,mysql,redux,sass,tailwind,materialui,bootstrap,docker,aws,jest,flutter,dotnet,js,ts,php,java,py,c,cpp,aws,wordpress,arduino,linux)](https://www.ashandimantha.live/)
     </br>
- ## Software and Tools
-[![Softwares](https://skillicons.dev/icons?i=git,npm,yarn,postman,figma)](https://www.ashandimantha.live/)
+<!-- ## Software and Tools
+[![Softwares](https://skillicons.dev/icons?i=git,npm,yarn,postman,figma)](https://www.ashandimantha.live/) -->
 
 </div>
   
@@ -54,13 +54,13 @@ A being of 1s, 0s & infinite hues 🌈
  </br>
 
   
-   ## Achievements
+  <!-- ## Achievements -->
 
 [![@ashandimanthalk's Holopin board](https://holopin.me/ashandimanthalk)](https://holopin.io/@ashandimanthalk)
 
-  <a href="https://www.credly.com/users/ashandimanthalk/badges">
+<!--  <a href="https://www.credly.com/users/ashandimanthalk/badges">
     <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" title="Introduction to Cyber Security - Cisco Verified" width="100px" style="display:inline-block; margin-right: 30px;"/>
-  </a>
+  </a> -->
 
 
 
