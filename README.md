@@ -8,8 +8,9 @@ A being of 1s, 0s & infinite hues 🌈
   I'm Ashan Dimantha.
 </h1>-->
 
-- 👀 I’m interested in Software Engineering, UI/UX, Cyber Security and Cloud Engineering
+- 👀 I’m interested in Software Engineering, Cloud Engineering, UI/UX, and Cyber Security
 - 🎓 BSc (Hons) Computer Science - First Class Honours
+- 🏢 Associate Software Engineer @fortude
 - 🌐 Discover My Portfolio -  [https://www.ashandimantha.live/](https://www.ashandimantha.live/)
 
 
