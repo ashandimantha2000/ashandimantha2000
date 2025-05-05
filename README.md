@@ -10,7 +10,7 @@ A being of 1s, 0s & infinite hues 🌈
 
 - 👀 I’m interested in Software Engineering, Cloud Engineering, UI/UX, and Cyber Security
 - 🎓 BSc (Hons) Computer Science - First Class Honours
-- 🏢 Associate Software Engineer @fortude
+- 🏢 Associate Software Engineer [@Fortude](https://github.com/fortude)
 - 🌐 Discover My Portfolio -  [https://www.ashandimantha.live/](https://www.ashandimantha.live/)
 
 
