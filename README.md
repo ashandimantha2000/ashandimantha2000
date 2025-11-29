@@ -11,7 +11,7 @@ A soul of 1s, 0s & infinite hues 🤓
 - 👀 I’m interested in Software Engineering, Cloud Engineering, UI/UX, and Cyber Security
 - 🎓 BSc (Hons) Computer Science - First Class Honours
 - 🏢 Associate Software Engineer [@Fortude](https://fortude.co/)
-- 🌐 Discover My Portfolio -  [https://www.ashandimantha.live/](https://www.ashandimantha.live/)
+- 🌐 Discover My Portfolio -  [https://ashandimantha.vercel.app/](https://ashandimantha.vercel.app/)
 
 
 <!-- <div align="right"><h5>Connect WIth Me On</h5>
@@ -39,7 +39,7 @@ A soul of 1s, 0s & infinite hues 🤓
 <div>
     
   ## Tools and Technologies
-[![Technologies](https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,expressjs,nestjs,graphql,mongodb,mysql,redis,sass,tailwind,materialui,bootstrap,docker,aws,jest,flutter,dotnet,js,ts,java,py,c,arduino,linux)](https://www.ashandimantha.live/)
+[![Technologies](https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,expressjs,graphql,mongodb,mysql,redis,sass,tailwind,materialui,bootstrap,redux,docker,aws,jest,flutter,dotnet,js,ts,java,py,c,arduino,linux)](https://ashandimantha.vercel.app/)
     </br>
 <!-- ## Software and Tools
 [![Softwares](https://skillicons.dev/icons?i=git,npm,yarn,postman,figma)](https://www.ashandimantha.live/) -->
